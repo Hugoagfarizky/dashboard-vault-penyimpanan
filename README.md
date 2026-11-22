@@ -32,3 +32,10 @@ Vaultly tidak menggunakan backend maupun akun. File, metadata, dan pengaturan ba
 ## Deploy GitHub Pages
 
 Workflow [deploy.yml](.github/workflows/deploy.yml) menjalankan build lalu menerbitkan folder `dist` setiap ada push ke branch `main`. Di pengaturan repository GitHub, pilih **GitHub Actions** sebagai sumber Pages bila belum aktif.
+
+## Proyek terbuka
+
+- [Lisensi MIT](LICENSE)
+- [Panduan kontribusi](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Kebijakan privasi](PRIVACY.md)
