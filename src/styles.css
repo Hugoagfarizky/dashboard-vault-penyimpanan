@@ -66,7 +66,8 @@ kbd { color: #a1a2ad; background: #fff; padding: 2px 5px; border: 1px solid #e7e
 .icon-button.tiny { padding: 5px; }
 .icon-button.danger:hover { background: #fff0f1; color: #d75968; }
 .desktop-only { margin-left: auto; }
-.mobile-menu, .desktop-collapsed { display: none; }
+.mobile-menu { display: none; }
+.desktop-collapsed { display: grid; }
 
 .content { max-width: 1440px; margin: 0 auto; padding: 27px 34px 50px; }
 .breadcrumbs { display: flex; align-items: center; min-height: 19px; color: #9697a2; font-size: 12px; gap: 5px; }
