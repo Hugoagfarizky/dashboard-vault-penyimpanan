@@ -38,4 +38,5 @@ Workflow [deploy.yml](.github/workflows/deploy.yml) menjalankan build lalu mener
 - [Lisensi MIT](LICENSE)
 - [Panduan kontribusi](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Kebijakan keamanan](SECURITY.md)
 - [Kebijakan privasi](PRIVACY.md)
